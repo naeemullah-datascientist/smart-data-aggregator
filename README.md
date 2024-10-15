@@ -35,7 +35,8 @@ The Smart Data Aggregator tool is designed to manage and analyze large sets of u
    ```bash
    git clone https://github.com/naeemullah-datascientist/smart-data-aggregator
 2.Change into the project directory:
-	cd smart-data-aggregator
+
+cd /c/Users/ali/PycharmProjects/IDSlab/assignment2/smart-data-aggregator	cd smart-data-aggregator
 ##  Usage
 	Run the Python scripts in this project to analyze user data.
 	python smart_data_aggregator_assignment2.py
